@@ -1,5 +1,5 @@
 ## Hi there 👋
-A passionate and results-oriented Front-End Web Developer with 4+ years of digital marketing agency experience in developing, and maintaining web applications and user interfaces. Proven ability to collaborate with clients to deliver high-quality, user-friendly, and responsive web experiences.
+A passionate and results-oriented Frontend Web Developer with 4+ years of digital marketing agency experience in developing, and maintaining web applications and user interfaces. Proven ability to collaborate with clients to deliver high-quality, user-friendly, and responsive web experiences.
 
 <!--
 **johnpgeipel/johnpgeipel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
